@@ -1,8 +1,8 @@
-name 
+name = gayu and sruthi
 
-age
+age = 22 21
 
-department
+department = IT
 
-salary
+salary = 15000
 
